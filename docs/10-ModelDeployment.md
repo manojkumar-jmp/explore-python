@@ -1,2 +1,4 @@
 - Saving/loading models (Pickle, Joblib)
 - Introduction to deploying models using Flask/FastAPI
+- [Flask Tutorial](https://flask.palletsprojects.com/en/3.0.x/tutorial/)
+- [Deploying ML Models with Flask](https://towardsdatascience.com/a-simple-method-to-deploy-machine-learning-models-as-apis-93a5b146fd61)
