@@ -2,3 +2,5 @@
 - Control structures (if, for, while)
 - Functions and modules
 - File handling
+- [Python Official Tutorial](https://docs.python.org/3/tutorial/)
+- [W3Schools Python](https://www.w3schools.com/python/)
