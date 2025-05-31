@@ -1,2 +1,4 @@
 - Line, bar, scatter, and histogram plots
 - Heatmaps, pairplots, and advanced visualization
+- [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)
+- [Data Visualization with Python by IBM](https://cognitiveclass.ai/courses/data-visualization-python)
