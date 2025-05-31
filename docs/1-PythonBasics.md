@@ -1,0 +1,4 @@
+- Variables, data types, and operators
+- Control structures (if, for, while)
+- Functions and modules
+- File handling
