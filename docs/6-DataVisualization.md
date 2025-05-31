@@ -1,0 +1,2 @@
+- Line, bar, scatter, and histogram plots
+- Heatmaps, pairplots, and advanced visualization
