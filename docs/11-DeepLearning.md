@@ -1,3 +1,5 @@
 - Neural networks basics (using TensorFlow/PyTorch)
 - Building simple neural networks
 - Introduction to CNNs, RNNs
+- [TensorFlow Beginner Guide](https://www.tensorflow.org/tutorials/keras/classification)
+- [PyTorch 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
