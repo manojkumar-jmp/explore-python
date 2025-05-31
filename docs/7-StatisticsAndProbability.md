@@ -1,0 +1,3 @@
+- Descriptive statistics (mean, median, std, etc.)
+- Probability distributions
+- Correlation and covariance
