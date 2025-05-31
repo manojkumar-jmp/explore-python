@@ -1,3 +1,5 @@
 - Descriptive statistics (mean, median, std, etc.)
 - Probability distributions
 - Correlation and covariance
+- [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability)
+- [Statistical Thinking in Python (Datacamp)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
