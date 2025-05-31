@@ -1,0 +1,3 @@
+- Reading/writing data (CSV, Excel, JSON, etc.)
+- Data cleaning (handling missing values, duplicates)
+- Data transformation (scaling, encoding, normalization)
