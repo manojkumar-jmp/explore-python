@@ -1,0 +1,3 @@
+- Feature selection and extraction
+- Handling categorical variables
+- Dimensionality reduction (PCA, t-SNE)
