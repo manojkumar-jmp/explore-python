@@ -3,3 +3,9 @@
 - Matplotlib & Seaborn (data visualization)
 - Scikit-learn (machine learning algorithms)
 - TensorFlow or PyTorch (deep learning frameworks)
+
+ - [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
+ - [Pandas Getting Started](https://pandas.pydata.org/docs/getting_started/index.html)
+ - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+ - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
+ - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
