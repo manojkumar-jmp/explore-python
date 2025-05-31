@@ -1,2 +1,4 @@
 - Lists, tuples, sets, and dictionaries
 - List comprehensions and generator expressions
+- [Real Python - Data Structures](https://realpython.com/python-data-structures/)
+- [Python OOP Tutorial](https://www.programiz.com/python-programming/object-oriented-programming)
