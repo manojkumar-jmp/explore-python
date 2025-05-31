@@ -4,7 +4,7 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 1. Python Fundamentals
+## 1. [Python Fundamentals](docs/1-PythonBasics.md)
 - Variables, data types (int, float, str, bool)
 - Operators (arithmetic, comparison, logical)
 - Control flow: `if`, `for`, `while`
@@ -14,7 +14,7 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 2. Data Structures
+## 2. [Data Structures](docs/2-DataStructures.md)
 - Lists, tuples, sets, dictionaries
 - List comprehensions
 - Slicing and basic operations
@@ -22,7 +22,7 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 3. Object-Oriented Programming (OOP)
+## 3. [Object-Oriented Programming (OOP)](docs/3-Object-OrientedProgramming.md)
 - Classes and objects
 - Methods, attributes
 - Inheritance, encapsulation, polymorphism
@@ -30,7 +30,7 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 4. Essential Libraries
+## 4. [Essential Libraries](docs/4-LibrariesEssentialForAI.md)
 - **NumPy**: Arrays, broadcasting, vectorized operations
 - **Pandas**: DataFrames, Series, I/O, filtering, grouping
 - **Matplotlib/Seaborn**: Plotting, histograms, scatter plots
@@ -38,7 +38,7 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 5. Data Manipulation & Cleaning
+## 5. [Data Manipulation & Cleaning](docs/5-DataManipulationAndAnalysis.md)
 - Reading/writing data (CSV, Excel, JSON)
 - Handling missing values, outliers
 - Data transformation: scaling, encoding, normalization
@@ -46,14 +46,14 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 6. Data Visualization
+## 6. [Data Visualization](docs/6-DataVisualization.md)
 - Plotting distributions, trends, and relationships
 - Customizing plots
 - Practice: Visualize real datasets (e.g., Iris, Titanic).
 
 ---
 
-## 7. Statistics & Probability (with Python)
+## 7. [Statistics & Probability (with Python)](docs/7-StatisticsAndProbability.md)
 - Mean, median, mode, variance, standard deviation
 - Probability distributions (normal, binomial, etc.)
 - Correlation, covariance
@@ -61,7 +61,7 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 8. Machine Learning Concepts (with scikit-learn)
+## 8. [Machine Learning Concepts (with scikit-learn)](docs/8-MachineLearningConcepts.md)
 - Supervised vs. unsupervised learning
 - Regression (linear, logistic)
 - Classification (SVM, k-NN, decision trees)
@@ -71,7 +71,7 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 9. Feature Engineering
+## 9. [Feature Engineering](docs/9-FeatureEngineering.md)
 - Encoding categorical variables (one-hot, label)
 - Feature selection, extraction
 - Dimensionality reduction (PCA, t-SNE)
@@ -79,14 +79,14 @@ This step-by-step learning path io build a strong foundation in Artificial Intel
 
 ---
 
-## 10. Model Deployment (Basics)
+## 10. [Model Deployment (Basics)](docs/10-ModelDeployment.md)
 - Saving/loading models (pickle, joblib)
 - Introduction to Flask/FastAPI for simple API deployment
 - Practice: Deploy a trained model as an API.
 
 ---
 
-## 11. Introduction to Deep Learning
+## 11. [Introduction to Deep Learning](docs/11-DeepLearning.md)
 - Neural networks basics (perceptrons, activation functions)
 - Using TensorFlow or PyTorch to build simple models
 - Introduction to CNNs, RNNs
