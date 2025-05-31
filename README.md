@@ -1,6 +1,6 @@
 # Python Learning Path for AI & ML
 
-This step-by-step learning path will guide you from Python basics to building and deploying machine learning models. Follow each section in order, practicing examples as you go.
+This step-by-step learning path io build a strong foundation in Artificial Intelligence (AI) and Machine Learning (ML) using Python.
 
 ---
 
