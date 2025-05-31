@@ -1,0 +1,3 @@
+- Neural networks basics (using TensorFlow/PyTorch)
+- Building simple neural networks
+- Introduction to CNNs, RNNs
