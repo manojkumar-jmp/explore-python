@@ -1,0 +1,5 @@
+- NumPy (numerical computations)
+- Pandas (data manipulation and analysis)
+- Matplotlib & Seaborn (data visualization)
+- Scikit-learn (machine learning algorithms)
+- TensorFlow or PyTorch (deep learning frameworks)
