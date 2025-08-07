@@ -1,3 +1,5 @@
+📘 See [DISCLAIMER](https://github.com/manojkumar-jmp/.github/blob/main/DISCLAIMER.md) for legal and usage disclaimers related to this repository.
+
 # Python Learning Path for AI & ML
 
 This step-by-step learning path io build a strong foundation in Artificial Intelligence (AI) and Machine Learning (ML) using Python.
